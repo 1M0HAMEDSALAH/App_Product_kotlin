@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">second_task</string>
+    <array name="arr">
+        <item>egypt</item>
+        <item>spain</item>
+        <item>italy</item>
+        <item>germany</item>
+        <item>france</item>
+
+    </array>
+    <array name="arr2">
+        <item>SuperAdmin</item>
+        <item> Admin</item>
+        <item>User</item>
+
+
+    </array>
+</resources>
